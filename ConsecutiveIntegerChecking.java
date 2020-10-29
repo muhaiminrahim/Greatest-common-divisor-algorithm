@@ -9,7 +9,6 @@ public class ConsecutiveIntegerChecking {
         System.out.println ("Second number: ");
         int num2 = pepeg.nextInt();
         System.out.println ("Greatest Common Divisor is " + consecutiveCheck(num1,num2) );
-        
     }
     
    public static int consecutiveCheck(int m, int n) 
